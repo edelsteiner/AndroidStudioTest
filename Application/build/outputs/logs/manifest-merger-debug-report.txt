@@ -1,0 +1,257 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:17:1-83:12
+INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:17:1-83:12
+INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:17:1-83:12
+MERGED from [com.google.android.material:material:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\material-1.0.0-alpha3.aar\a7075ae28a1b98df7f5413477347d534\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\3a8e51b6355984b7721261aa0003783d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0-alpha3.aar\db7cd06a6c0b6a0d28012e87d8a198ff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\legacy-support-v13-1.0.0-alpha3.aar\cd4b41490a92133d0ec4e98b71843d77\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-15.0.1.aar\9df84945efd5dcdf9370f01400b34761\AndroidManifest.xml:17:1-24:12
+MERGED from [:Shared] C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Shared\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:1-26:12
+MERGED from [androidx.transition:transition:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\transition-1.0.0-alpha3.aar\56dacbc2bd8f294fbd88d28b4b604b35\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0-alpha3.aar\147c649ec27e26d59419e1f23daa222a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\7291a4db644e4b190904ac15ab9592d8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\129787cfdf632b5d0be870eab15bb503\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\e68a062d727c9eab169763a61ed39564\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-15.0.1.aar\774eb60824649b0c75af0b2346521166\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\37e05cec406c380b4afa7833bcf232b6\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0-rc01.aar\ded740b86460d0e1b6ed525b87d0eeb5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\127031519d74e275f22b19222d0ebbb5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\daf65c9fb19dc1e4e03ee2c400ba2755\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0-rc01] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\media-1.0.0-rc01.aar\7e9efb0b6bbaf273f327fcb61b6ea39e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\61c1a9e85389d5d0679042d03d640e5c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\1c0b390324c1d5a691e0802cb94172cf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\2fe22c5a15ed95aae1ba8d36b4744120\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\745d0a71047c808a6ff042f1c6862302\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\3e9f452ef4e8bd021e7ea80fc129c10e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\c579d5b8e460420c7c67344f50c2f45f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\c2a3867126c33e98de6b39b3a84aaddb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\afb013c9d3422db29cf2acfc793afdd7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\32ddcfc474d60090ddfdb51efd611ed0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\c090df205f86073060234557d326e733\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\bd04056bd109de82067c2363b6cce113\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\0c7b6a911ee62cd137e1ce9a1dcabacc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\a48800bb75a13078930cc4b54036a758\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\d33eb9249c7aabe47610ad9a527e9f2b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\7e6f7a31c7a2fb17f28cf9075d8d3f52\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\d4ba7120772a05563959a7c352679ab6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\4504e4ea7e68618ff230b9f871df7181\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\744c82c181634e3da1ca36b69c5e28e7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\d23e718540440db980bf5f484cdcc449\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\c46729e3b20deef51c075543825c8d9c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\67044479ae6d811dfa71c4bd98cfaf69\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:17:1-83:12
+INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:17:1-83:12
+	package
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:18:11-72
+	android:versionName
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:20:11-36
+		INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:19:11-34
+		INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:22:5-82:19
+MERGED from [com.google.android.material:material:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\material-1.0.0-alpha3.aar\a7075ae28a1b98df7f5413477347d534\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\material-1.0.0-alpha3.aar\a7075ae28a1b98df7f5413477347d534\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-15.0.1.aar\9df84945efd5dcdf9370f01400b34761\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-15.0.1.aar\9df84945efd5dcdf9370f01400b34761\AndroidManifest.xml:22:5-20
+MERGED from [:Shared] C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Shared\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:21:5-24:19
+MERGED from [:Shared] C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Shared\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:21:5-24:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\e68a062d727c9eab169763a61ed39564\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\e68a062d727c9eab169763a61ed39564\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-15.0.1.aar\774eb60824649b0c75af0b2346521166\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-15.0.1.aar\774eb60824649b0c75af0b2346521166\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\37e05cec406c380b4afa7833bcf232b6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\37e05cec406c380b4afa7833bcf232b6\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\c090df205f86073060234557d326e733\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\c090df205f86073060234557d326e733\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\bd04056bd109de82067c2363b6cce113\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\bd04056bd109de82067c2363b6cce113\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\c090df205f86073060234557d326e733\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:24:9-45
+	android:allowBackup
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:27:9-48
+activity#com.example.android.wearable.wear.wearnotifications.MainActivity
+ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:29:9-34:20
+	android:name
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:29:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:31:17-68
+	android:name
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:32:27-74
+activity#com.example.android.wearable.wear.wearnotifications.handlers.BigTextMainActivity
+ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:36:9-41:20
+	android:label
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:39:13-65
+	android:excludeFromRecents
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:38:13-46
+	android:taskAffinity
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:40:13-36
+	android:name
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:37:13-57
+activity#com.example.android.wearable.wear.wearnotifications.handlers.BigPictureSocialMainActivity
+ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:43:9-49:20
+	android:label
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:45:13-68
+	android:name
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:44:13-66
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:46:13-48:48
+	android:value
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:48:17-46
+	android:name
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:47:17-63
+activity#com.example.android.wearable.wear.wearnotifications.handlers.InboxMainActivity
+ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:52:9-58:20
+	android:label
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:54:13-62
+	android:name
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:53:13-55
+activity#com.example.android.wearable.wear.wearnotifications.handlers.MessagingMainActivity
+ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:60:9-66:20
+	android:label
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:62:13-66
+	android:name
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:61:13-59
+service#com.example.android.wearable.wear.wearnotifications.handlers.BigTextIntentService
+ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:68:9-71:19
+	android:exported
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:70:13-37
+	android:name
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:69:13-58
+service#com.example.android.wearable.wear.wearnotifications.handlers.MessagingIntentService
+ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:73:9-76:19
+	android:exported
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:75:13-37
+	android:name
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:74:13-60
+service#com.example.android.wearable.wear.wearnotifications.handlers.BigPictureSocialIntentService
+ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:78:9-81:19
+	android:exported
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:80:13-37
+	android:name
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:79:13-67
+uses-sdk
+INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\material-1.0.0-alpha3.aar\a7075ae28a1b98df7f5413477347d534\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\material-1.0.0-alpha3.aar\a7075ae28a1b98df7f5413477347d534\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\3a8e51b6355984b7721261aa0003783d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\3a8e51b6355984b7721261aa0003783d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0-alpha3.aar\db7cd06a6c0b6a0d28012e87d8a198ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0-alpha3.aar\db7cd06a6c0b6a0d28012e87d8a198ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\legacy-support-v13-1.0.0-alpha3.aar\cd4b41490a92133d0ec4e98b71843d77\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\legacy-support-v13-1.0.0-alpha3.aar\cd4b41490a92133d0ec4e98b71843d77\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-15.0.1.aar\9df84945efd5dcdf9370f01400b34761\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-15.0.1.aar\9df84945efd5dcdf9370f01400b34761\AndroidManifest.xml:20:5-44
+MERGED from [:Shared] C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Shared\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:17:5-19:41
+MERGED from [:Shared] C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Shared\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:17:5-19:41
+MERGED from [androidx.transition:transition:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\transition-1.0.0-alpha3.aar\56dacbc2bd8f294fbd88d28b4b604b35\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\transition-1.0.0-alpha3.aar\56dacbc2bd8f294fbd88d28b4b604b35\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0-alpha3.aar\147c649ec27e26d59419e1f23daa222a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0-alpha3.aar\147c649ec27e26d59419e1f23daa222a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\7291a4db644e4b190904ac15ab9592d8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\7291a4db644e4b190904ac15ab9592d8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\129787cfdf632b5d0be870eab15bb503\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\129787cfdf632b5d0be870eab15bb503\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\e68a062d727c9eab169763a61ed39564\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\e68a062d727c9eab169763a61ed39564\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-15.0.1.aar\774eb60824649b0c75af0b2346521166\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-15.0.1.aar\774eb60824649b0c75af0b2346521166\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\37e05cec406c380b4afa7833bcf232b6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\37e05cec406c380b4afa7833bcf232b6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0-rc01.aar\ded740b86460d0e1b6ed525b87d0eeb5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0-rc01.aar\ded740b86460d0e1b6ed525b87d0eeb5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\127031519d74e275f22b19222d0ebbb5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\127031519d74e275f22b19222d0ebbb5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\daf65c9fb19dc1e4e03ee2c400ba2755\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\daf65c9fb19dc1e4e03ee2c400ba2755\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-rc01] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\media-1.0.0-rc01.aar\7e9efb0b6bbaf273f327fcb61b6ea39e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-rc01] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\media-1.0.0-rc01.aar\7e9efb0b6bbaf273f327fcb61b6ea39e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\61c1a9e85389d5d0679042d03d640e5c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\61c1a9e85389d5d0679042d03d640e5c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\1c0b390324c1d5a691e0802cb94172cf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\1c0b390324c1d5a691e0802cb94172cf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\2fe22c5a15ed95aae1ba8d36b4744120\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\2fe22c5a15ed95aae1ba8d36b4744120\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\745d0a71047c808a6ff042f1c6862302\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\745d0a71047c808a6ff042f1c6862302\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\3e9f452ef4e8bd021e7ea80fc129c10e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\3e9f452ef4e8bd021e7ea80fc129c10e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\c579d5b8e460420c7c67344f50c2f45f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\c579d5b8e460420c7c67344f50c2f45f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\c2a3867126c33e98de6b39b3a84aaddb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\c2a3867126c33e98de6b39b3a84aaddb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\afb013c9d3422db29cf2acfc793afdd7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\afb013c9d3422db29cf2acfc793afdd7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\32ddcfc474d60090ddfdb51efd611ed0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\32ddcfc474d60090ddfdb51efd611ed0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\c090df205f86073060234557d326e733\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\c090df205f86073060234557d326e733\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\bd04056bd109de82067c2363b6cce113\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\bd04056bd109de82067c2363b6cce113\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\0c7b6a911ee62cd137e1ce9a1dcabacc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\0c7b6a911ee62cd137e1ce9a1dcabacc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\a48800bb75a13078930cc4b54036a758\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\a48800bb75a13078930cc4b54036a758\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\d33eb9249c7aabe47610ad9a527e9f2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\d33eb9249c7aabe47610ad9a527e9f2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\7e6f7a31c7a2fb17f28cf9075d8d3f52\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\7e6f7a31c7a2fb17f28cf9075d8d3f52\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\d4ba7120772a05563959a7c352679ab6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\d4ba7120772a05563959a7c352679ab6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\4504e4ea7e68618ff230b9f871df7181\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\4504e4ea7e68618ff230b9f871df7181\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\744c82c181634e3da1ca36b69c5e28e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\744c82c181634e3da1ca36b69c5e28e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\d23e718540440db980bf5f484cdcc449\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\d23e718540440db980bf5f484cdcc449\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\c46729e3b20deef51c075543825c8d9c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\c46729e3b20deef51c075543825c8d9c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\67044479ae6d811dfa71c4bd98cfaf69\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\67044479ae6d811dfa71c4bd98cfaf69\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\e68a062d727c9eab169763a61ed39564\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\e68a062d727c9eab169763a61ed39564\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\e68a062d727c9eab169763a61ed39564\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\e68a062d727c9eab169763a61ed39564\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\37e05cec406c380b4afa7833bcf232b6\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\37e05cec406c380b4afa7833bcf232b6\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-15.0.1.aar\37e05cec406c380b4afa7833bcf232b6\AndroidManifest.xml:24:13-58

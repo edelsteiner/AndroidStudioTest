@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Dec 05 06:05:47 CST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\simon\\AndroidStudioProjects\\android-Notifications-master-x\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
