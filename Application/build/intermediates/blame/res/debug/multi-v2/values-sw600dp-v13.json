@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\simon\\AndroidStudioProjects\\android-Notifications-master-x\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "C:\\Users\\simon\\AndroidStudioProjects\\AndroidStudioTest\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\simon\\AndroidStudioProjects\\AndroidStudioTest\\Application\\src\\main\\res\\values-sw600dp\\template-dimens.xml",
+                    "from": {
+                        "startLines": "20,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "676,745",
+                        "endColumns": "67,67",
+                        "endOffsets": "739,808"
+                    },
+                    "to": {
+                        "startLines": "19,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "1173,1241",
+                        "endColumns": "67,67",
+                        "endOffsets": "1236,1304"
+                    }
+                },
                 {
                     "source": "C:\\Users\\simon\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\3a8e51b6355984b7721261aa0003783d\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
@@ -14,20 +31,22 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\simon\\AndroidStudioProjects\\android-Notifications-master-x\\Application\\src\\main\\res\\values-sw600dp\\template-dimens.xml",
+                    "source": "C:\\Users\\simon\\AndroidStudioProjects\\AndroidStudioTest\\Application\\src\\main\\res\\values-sw600dp\\template-styles.xml",
                     "from": {
-                        "startLines": "20,21",
-                        "startColumns": "4,4",
-                        "startOffsets": "656,724",
-                        "endColumns": "67,67",
-                        "endOffsets": "719,787"
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "639",
+                        "endLines": "22",
+                        "endColumns": "12",
+                        "endOffsets": "883"
                     },
                     "to": {
-                        "startLines": "19,20",
-                        "startColumns": "4,4",
-                        "startOffsets": "1173,1241",
-                        "endColumns": "67,67",
-                        "endOffsets": "1236,1304"
+                        "startLines": "26",
+                        "startColumns": "4",
+                        "startOffsets": "1544",
+                        "endLines": "30",
+                        "endColumns": "12",
+                        "endOffsets": "1784"
                     }
                 },
                 {
@@ -47,25 +66,6 @@
                         "endLines": "10,11,12,13,14,15,17,18,21,25",
                         "endColumns": "59,69,70,71,57,57,10,63,62,10",
                         "endOffsets": "666,736,807,879,937,995,1104,1168,1367,1539"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\simon\\AndroidStudioProjects\\android-Notifications-master-x\\Application\\src\\main\\res\\values-sw600dp\\template-styles.xml",
-                    "from": {
-                        "startLines": "18",
-                        "startColumns": "4",
-                        "startOffsets": "621",
-                        "endLines": "22",
-                        "endColumns": "12",
-                        "endOffsets": "861"
-                    },
-                    "to": {
-                        "startLines": "26",
-                        "startColumns": "4",
-                        "startOffsets": "1544",
-                        "endLines": "30",
-                        "endColumns": "12",
-                        "endOffsets": "1784"
                     }
                 }
             ]

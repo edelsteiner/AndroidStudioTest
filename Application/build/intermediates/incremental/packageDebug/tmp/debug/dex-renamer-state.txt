@@ -1,4 +1,4 @@
-#Wed Dec 05 06:05:46 CST 2018
-base.0=C\:\\Users\\simon\\AndroidStudioProjects\\android-Notifications-master-x\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Wed Dec 05 14:21:32 CST 2018
+base.0=C\:\\Users\\simon\\AndroidStudioProjects\\AndroidStudioTest\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

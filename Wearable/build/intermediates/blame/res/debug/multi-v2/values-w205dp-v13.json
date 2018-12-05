@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\simon\\AndroidStudioProjects\\android-Notifications-master-x\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w205dp-v13\\values-w205dp-v13.xml",
+            "outputFile": "C:\\Users\\simon\\AndroidStudioProjects\\AndroidStudioTest\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w205dp-v13\\values-w205dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\simon\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-wearable-2.3.0.aar\\582532e1e1e5814025825a5abb3a0b16\\res\\values-w205dp-v13\\values.xml",

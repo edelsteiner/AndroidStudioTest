@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\simon\\AndroidStudioProjects\\android-Notifications-master-x\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tr\\values-tr.xml",
+            "outputFile": "C:\\Users\\simon\\AndroidStudioProjects\\AndroidStudioTest\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tr\\values-tr.xml",
             "map": [
                 {
                     "source": "C:\\Users\\simon\\.gradle\\caches\\transforms-1\\files-1.1\\wear-1.0.0-alpha3.aar\\37eab613e5a4a38270a274ab0c367af2\\res\\values-tr\\values-tr.xml",

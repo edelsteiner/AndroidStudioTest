@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\simon\\AndroidStudioProjects\\android-Notifications-master-x\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-round-v23\\values-round-v23.xml",
+            "outputFile": "C:\\Users\\simon\\AndroidStudioProjects\\AndroidStudioTest\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-round-v23\\values-round-v23.xml",
             "map": [
                 {
                     "source": "C:\\Users\\simon\\.gradle\\caches\\transforms-1\\files-1.1\\wear-1.0.0-alpha3.aar\\37eab613e5a4a38270a274ab0c367af2\\res\\values-round-v23\\values-round-v23.xml",
@@ -38,30 +38,13 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\simon\\AndroidStudioProjects\\android-Notifications-master-x\\Wearable\\src\\main\\res\\values-round\\strings.xml",
-                    "from": {
-                        "startLines": "17",
-                        "startColumns": "4",
-                        "startOffsets": "668",
-                        "endColumns": "66",
-                        "endOffsets": "730"
-                    },
-                    "to": {
-                        "startLines": "17",
-                        "startColumns": "4",
-                        "startOffsets": "1123",
-                        "endColumns": "66",
-                        "endOffsets": "1185"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\simon\\AndroidStudioProjects\\android-Notifications-master-x\\Wearable\\src\\main\\res\\values-round\\dimens.xml",
+                    "source": "C:\\Users\\simon\\AndroidStudioProjects\\AndroidStudioTest\\Wearable\\src\\main\\res\\values-round\\dimens.xml",
                     "from": {
                         "startLines": "20,22,21,19,17",
                         "startColumns": "4,4,4,4,4",
-                        "startOffsets": "796,947,872,723,668",
+                        "startOffsets": "816,969,893,742,685",
                         "endColumns": "75,73,74,72,53",
-                        "endOffsets": "867,1016,942,791,717"
+                        "endOffsets": "887,1038,963,810,734"
                     },
                     "to": {
                         "startLines": "4,5,6,7,14",
@@ -69,6 +52,23 @@
                         "startOffsets": "176,252,326,401,903",
                         "endColumns": "75,73,74,72,53",
                         "endOffsets": "247,321,396,469,952"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\simon\\AndroidStudioProjects\\AndroidStudioTest\\Wearable\\src\\main\\res\\values-round\\strings.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "685",
+                        "endColumns": "66",
+                        "endOffsets": "747"
+                    },
+                    "to": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "1123",
+                        "endColumns": "66",
+                        "endOffsets": "1185"
                     }
                 }
             ]

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\simon\\AndroidStudioProjects\\android-Notifications-master-x\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\simon\\AndroidStudioProjects\\AndroidStudioTest\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\simon\\.gradle\\caches\\transforms-1\\files-1.1\\wear-1.0.0-alpha3.aar\\37eab613e5a4a38270a274ab0c367af2\\res\\values\\values.xml",
@@ -152,59 +152,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\simon\\AndroidStudioProjects\\android-Notifications-master-x\\Wearable\\src\\main\\res\\values\\dimens.xml",
-                    "from": {
-                        "startLines": "17,23,25,24,22,19,20",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "668,911,1060,986,839,733,784",
-                        "endColumns": "63,74,72,73,71,50,53",
-                        "endOffsets": "727,981,1128,1055,906,779,833"
-                    },
-                    "to": {
-                        "startLines": "2396,2397,2398,2399,2400,2568,2569",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "139242,139306,139381,139454,139528,150157,150208",
-                        "endColumns": "63,74,72,73,71,50,53",
-                        "endOffsets": "139301,139376,139449,139523,139595,150203,150257"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\simon\\AndroidStudioProjects\\android-Notifications-master-x\\Wearable\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "19,17,18",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "766,668,715",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "807,710,761"
-                    },
-                    "to": {
-                        "startLines": "220,221,222",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "11454,11500,11547",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "11495,11542,11593"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\simon\\AndroidStudioProjects\\android-Notifications-master-x\\Wearable\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "17,43,31,27,35,39,19,20,23,22,24,25",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "668,2054,1367,1155,1606,1825,725,771,898,814,988,1067",
-                        "endLines": "17,43,34,30,38,42,19,20,23,22,24,25",
-                        "endColumns": "55,65,13,13,13,13,45,41,89,83,78,86",
-                        "endOffsets": "719,2115,1601,1362,1820,2049,766,808,983,893,1062,1149"
-                    },
-                    "to": {
-                        "startLines": "2780,2837,2841,2845,2849,2853,2864,2865,2871,2872,2873,2874",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "164400,169792,170105,170344,170556,170775,171971,172017,172582,172672,172756,172835",
-                        "endLines": "2780,2837,2844,2848,2852,2856,2864,2865,2871,2872,2873,2874",
-                        "endColumns": "55,65,13,13,13,13,45,41,89,83,78,86",
-                        "endOffsets": "164451,169853,170339,170551,170770,170999,172012,172054,172667,172751,172830,172917"
-                    }
-                },
-                {
                     "source": "C:\\Users\\simon\\.gradle\\caches\\transforms-1\\files-1.1\\coordinatorlayout-1.0.0-rc01.aar\\e362fe8f715da1daf03cb19e83be9e10\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,13,102",
@@ -243,6 +190,40 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\simon\\AndroidStudioProjects\\AndroidStudioTest\\Wearable\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "17,23,25,24,22,19,20",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "685,934,1085,1010,861,752,804",
+                        "endColumns": "63,74,72,73,71,50,53",
+                        "endOffsets": "744,1004,1153,1079,928,798,853"
+                    },
+                    "to": {
+                        "startLines": "2396,2397,2398,2399,2400,2568,2569",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "139242,139306,139381,139454,139528,150157,150208",
+                        "endColumns": "63,74,72,73,71,50,53",
+                        "endOffsets": "139301,139376,139449,139523,139595,150203,150257"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\simon\\AndroidStudioProjects\\AndroidStudioTest\\Wearable\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "19,17,18",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "785,685,733",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "826,727,779"
+                    },
+                    "to": {
+                        "startLines": "220,221,222",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "11454,11500,11547",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "11495,11542,11593"
+                    }
+                },
+                {
                     "source": "C:\\Users\\simon\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-15.0.1.aar\\37e05cec406c380b4afa7833bcf232b6\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,7",
@@ -257,6 +238,25 @@
                         "startOffsets": "159668,167872",
                         "endColumns": "67,166",
                         "endOffsets": "159731,168034"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\simon\\AndroidStudioProjects\\AndroidStudioTest\\Wearable\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "17,43,31,27,35,39,19,20,23,22,24,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "685,2097,1398,1182,1641,1864,744,791,921,836,1012,1092",
+                        "endLines": "17,43,34,30,38,42,19,20,23,22,24,25",
+                        "endColumns": "55,65,13,13,13,13,45,41,89,83,78,86",
+                        "endOffsets": "736,2158,1635,1392,1858,2091,785,828,1006,915,1086,1174"
+                    },
+                    "to": {
+                        "startLines": "2780,2837,2841,2845,2849,2853,2864,2865,2871,2872,2873,2874",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "164400,169792,170105,170344,170556,170775,171971,172017,172582,172672,172756,172835",
+                        "endLines": "2780,2837,2844,2848,2852,2856,2864,2865,2871,2872,2873,2874",
+                        "endColumns": "55,65,13,13,13,13,45,41,89,83,78,86",
+                        "endOffsets": "164451,169853,170339,170551,170770,170999,172012,172054,172667,172751,172830,172917"
                     }
                 },
                 {

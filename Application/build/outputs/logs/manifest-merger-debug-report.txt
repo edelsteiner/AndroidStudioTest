@@ -1,14 +1,14 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:17:1-83:12
-INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:17:1-83:12
-INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:17:1-83:12
+ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:17:1-83:12
+INJECTED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:17:1-83:12
+INJECTED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:17:1-83:12
 MERGED from [com.google.android.material:material:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\material-1.0.0-alpha3.aar\a7075ae28a1b98df7f5413477347d534\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\3a8e51b6355984b7721261aa0003783d\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cardview:cardview:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0-alpha3.aar\db7cd06a6c0b6a0d28012e87d8a198ff\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-v13:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\legacy-support-v13-1.0.0-alpha3.aar\cd4b41490a92133d0ec4e98b71843d77\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-15.0.1.aar\9df84945efd5dcdf9370f01400b34761\AndroidManifest.xml:17:1-24:12
-MERGED from [:Shared] C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Shared\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:1-26:12
+MERGED from [:Shared] C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Shared\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:1-26:12
 MERGED from [androidx.transition:transition:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\transition-1.0.0-alpha3.aar\56dacbc2bd8f294fbd88d28b4b604b35\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0-alpha3.aar\147c649ec27e26d59419e1f23daa222a\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\7291a4db644e4b190904ac15ab9592d8\AndroidManifest.xml:17:1-22:12
@@ -41,28 +41,28 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.print:print:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\d23e718540440db980bf5f484cdcc449\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\c46729e3b20deef51c075543825c8d9c\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\67044479ae6d811dfa71c4bd98cfaf69\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:17:1-83:12
-INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:17:1-83:12
+INJECTED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:17:1-83:12
+INJECTED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:17:1-83:12
 	package
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:18:11-72
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:18:11-72
 	android:versionName
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:20:11-36
-		INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:20:11-36
+		INJECTED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:17:11-69
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:17:11-69
 	android:versionCode
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:19:11-34
-		INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:19:11-34
+		INJECTED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:22:5-82:19
+ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:22:5-82:19
 MERGED from [com.google.android.material:material:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\material-1.0.0-alpha3.aar\a7075ae28a1b98df7f5413477347d534\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\material-1.0.0-alpha3.aar\a7075ae28a1b98df7f5413477347d534\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-15.0.1.aar\9df84945efd5dcdf9370f01400b34761\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-15.0.1.aar\9df84945efd5dcdf9370f01400b34761\AndroidManifest.xml:22:5-20
-MERGED from [:Shared] C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Shared\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:21:5-24:19
-MERGED from [:Shared] C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Shared\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:21:5-24:19
+MERGED from [:Shared] C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Shared\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:21:5-24:19
+MERGED from [:Shared] C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Shared\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:21:5-24:19
 MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\e68a062d727c9eab169763a61ed39564\AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\e68a062d727c9eab169763a61ed39564\AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-15.0.1.aar\774eb60824649b0c75af0b2346521166\AndroidManifest.xml:7:5-20
@@ -76,85 +76,85 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\si
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\c090df205f86073060234557d326e733\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:26:9-35
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:26:9-35
 	android:label
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:25:9-41
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:25:9-41
 	android:icon
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:24:9-45
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:24:9-45
 	android:allowBackup
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:23:9-35
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:23:9-35
 	android:theme
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:27:9-48
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:27:9-48
 activity#com.example.android.wearable.wear.wearnotifications.MainActivity
-ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:29:9-34:20
+ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:29:9-34:20
 	android:name
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:29:19-47
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:29:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:30:13-33:29
+ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:30:13-33:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:31:17-68
+ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:31:17-68
 	android:name
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:31:25-66
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:31:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:32:17-76
+ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:32:17-76
 	android:name
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:32:27-74
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:32:27-74
 activity#com.example.android.wearable.wear.wearnotifications.handlers.BigTextMainActivity
-ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:36:9-41:20
+ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:36:9-41:20
 	android:label
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:39:13-65
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:39:13-65
 	android:excludeFromRecents
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:38:13-46
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:38:13-46
 	android:taskAffinity
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:40:13-36
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:40:13-36
 	android:name
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:37:13-57
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:37:13-57
 activity#com.example.android.wearable.wear.wearnotifications.handlers.BigPictureSocialMainActivity
-ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:43:9-49:20
+ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:43:9-49:20
 	android:label
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:45:13-68
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:45:13-68
 	android:name
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:44:13-66
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:44:13-66
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:46:13-48:48
+ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:46:13-48:48
 	android:value
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:48:17-46
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:48:17-46
 	android:name
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:47:17-63
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:47:17-63
 activity#com.example.android.wearable.wear.wearnotifications.handlers.InboxMainActivity
-ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:52:9-58:20
+ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:52:9-58:20
 	android:label
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:54:13-62
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:54:13-62
 	android:name
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:53:13-55
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:53:13-55
 activity#com.example.android.wearable.wear.wearnotifications.handlers.MessagingMainActivity
-ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:60:9-66:20
+ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:60:9-66:20
 	android:label
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:62:13-66
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:62:13-66
 	android:name
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:61:13-59
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:61:13-59
 service#com.example.android.wearable.wear.wearnotifications.handlers.BigTextIntentService
-ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:68:9-71:19
+ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:68:9-71:19
 	android:exported
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:70:13-37
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:70:13-37
 	android:name
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:69:13-58
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:69:13-58
 service#com.example.android.wearable.wear.wearnotifications.handlers.MessagingIntentService
-ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:73:9-76:19
+ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:73:9-76:19
 	android:exported
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:75:13-37
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:75:13-37
 	android:name
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:74:13-60
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:74:13-60
 service#com.example.android.wearable.wear.wearnotifications.handlers.BigPictureSocialIntentService
-ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:78:9-81:19
+ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:78:9-81:19
 	android:exported
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:80:13-37
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:80:13-37
 	android:name
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml:79:13-67
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml:79:13-67
 uses-sdk
-INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml
-INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\material-1.0.0-alpha3.aar\a7075ae28a1b98df7f5413477347d534\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\material-1.0.0-alpha3.aar\a7075ae28a1b98df7f5413477347d534\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\3a8e51b6355984b7721261aa0003783d\AndroidManifest.xml:20:5-44
@@ -165,8 +165,8 @@ MERGED from [androidx.legacy:legacy-support-v13:1.0.0-alpha3] C:\Users\simon\.gr
 MERGED from [androidx.legacy:legacy-support-v13:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\legacy-support-v13-1.0.0-alpha3.aar\cd4b41490a92133d0ec4e98b71843d77\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-15.0.1.aar\9df84945efd5dcdf9370f01400b34761\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-15.0.1.aar\9df84945efd5dcdf9370f01400b34761\AndroidManifest.xml:20:5-44
-MERGED from [:Shared] C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Shared\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:17:5-19:41
-MERGED from [:Shared] C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Shared\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:17:5-19:41
+MERGED from [:Shared] C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Shared\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:17:5-19:41
+MERGED from [:Shared] C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Shared\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:17:5-19:41
 MERGED from [androidx.transition:transition:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\transition-1.0.0-alpha3.aar\56dacbc2bd8f294fbd88d28b4b604b35\AndroidManifest.xml:20:5-44
 MERGED from [androidx.transition:transition:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\transition-1.0.0-alpha3.aar\56dacbc2bd8f294fbd88d28b4b604b35\AndroidManifest.xml:20:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.0.0-alpha3] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0-alpha3.aar\147c649ec27e26d59419e1f23daa222a\AndroidManifest.xml:20:5-44
@@ -231,16 +231,16 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\simon\.gradl
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\c46729e3b20deef51c075543825c8d9c\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\67044479ae6d811dfa71c4bd98cfaf69\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\67044479ae6d811dfa71c4bd98cfaf69\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml
-INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml
-		ADDED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\simon\AndroidStudioProjects\android-Notifications-master-x\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\simon\AndroidStudioProjects\AndroidStudioTest\Application\src\main\AndroidManifest.xml
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\simon\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-15.0.1.aar\e68a062d727c9eab169763a61ed39564\AndroidManifest.xml:23:9-26:75
 	android:exported
